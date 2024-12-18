@@ -5,6 +5,10 @@ This repository contains a batch script that automates the following tasks:
 2. Starts Apache and MySQL services of XAMPP.
 3. Opens the XAMPP Control Panel.
 
+## Download the Executable
+You can download the ready-to-use .exe file from the following link:
+[Download EXE](https://github.com/hasi94/xampp-open-start-up/raw/refs/heads/main/xampp_open.exe)
+
 The script is designed for systems using Windows 11 and assumes that XAMPP is installed in the `F:\xampp` directory. If your XAMPP installation is located elsewhere, you need to update the paths in the script accordingly.
 
 ---
